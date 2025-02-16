@@ -1,3 +1,2 @@
 # project
-python-django
-Login page with python-django
+Login page using python-django
